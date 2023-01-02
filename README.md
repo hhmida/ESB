@@ -1,2 +1,2 @@
 # Esprit School of Business
-## Big Data Anlytics
+## Big Data Analytics
